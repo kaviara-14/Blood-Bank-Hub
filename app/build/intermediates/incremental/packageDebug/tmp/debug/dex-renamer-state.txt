@@ -1,0 +1,13 @@
+#Tue Jun 22 11:42:48 IST 2021
+path.3=classes2.dex
+path.2=9/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=C\:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.1=C\:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

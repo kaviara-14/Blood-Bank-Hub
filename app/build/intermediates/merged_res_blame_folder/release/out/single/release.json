@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_add_patient.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_add_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_adddonor.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_adddonor.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_addpatient.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_addpatient.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_add_donor.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_add_donor.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_view_donor_list.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\view_donor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_view_patient_list.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\view_patient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_view_patient.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_view_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_view_donor.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_view_donor.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_viewdonor.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_viewdonor.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_cut_card_background.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\cut_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_viewpatient.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\drawable\\ic_viewpatient.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_logout.xml.flat",
+        "source": "C:\\Users\\19tui\\AndroidStudioProjects\\BloodBank\\app\\src\\main\\res\\layout\\activity_logout.xml"
+    }
+]
