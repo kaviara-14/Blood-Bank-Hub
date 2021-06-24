@@ -1,6 +1,6 @@
 # Blood_Bank_Application
 
-An Android Application which serves as an angent between the blood donor and the needy, and the other major function of the app is able to
+An Android Application which serves as an agent between the blood donor and the needy, and the other major function of the app is able to
 find donors in your city with specific blood group.
 
 # Additional Features:
