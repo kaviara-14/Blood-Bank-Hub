@@ -20,9 +20,9 @@
 # 🚀 Technical Stack:
 
 ## Frontend:
-- Programming Language: Java,Android XML
-- IDE: Android Studio
+- Programming Language: Java ,Android XML.
+- IDE: Android Studio.
 
 
 ## Backend:
--Database: Firestore(Firebase)
+- Database: Firestore(Firebase).
